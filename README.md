@@ -2,7 +2,7 @@
 - AWS Cost Estimation for S3<br>
 - AWS IAM, Creating Users and Groups<br>
 - Build VPC and Launch Web Server, Create Subnets, Create VPC Security Group<br>
-- Launch EC2 Instance, Update Security Groupd and Access Web Server<br>
+- Launch EC2 Instance, Update Security Groups and Access Web Server<br>
 - Create EBS Volume, Attach Volume to Instance, Connect to Instance using Linux and create File System<br>
 - Create and Restore EBS Snapshot<br>
 - Build RDS Databade Servver<br>
