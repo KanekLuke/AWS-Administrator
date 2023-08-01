@@ -5,7 +5,7 @@
 - Launch EC2 Instance, Update Security Groups and Access Web Server<br>
 - Create EBS Volume, Attach Volume to Instance, Connect to Instance using Linux and create File System<br>
 - Create and Restore EBS Snapshot<br>
-- Build RDS Databade Server<br>
+- Build RDS Database Server<br>
 - Create AMI for Auto Scaling, Create Load Balancer<br>
 - Create Lambda Function
 
